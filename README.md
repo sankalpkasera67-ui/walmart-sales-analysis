@@ -209,6 +209,6 @@ Some possible enhancements for this project include:
 
 ## Author
 
-**Eshika Das**
+**Sankalp Kasera**
 
 If you have any feedback or suggestions, feel free to connect with me.
